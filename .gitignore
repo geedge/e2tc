@@ -1,0 +1,10 @@
+.gitignore
+.idea
+__pycache__/
+Kitsune/__pycache__/
+Kitsune/KitNET/__pycache__/
+TargetModel/FSNet/README.md
+modelFile/
+adversarialData/
+fig/
+*.npy
